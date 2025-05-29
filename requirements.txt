@@ -1,0 +1,13 @@
+cv2
+numpy as np
+dlib
+face_recognition
+os
+pandas as pd
+time
+from datetime import datetime
+threading
+tkinter as tk
+tkinter import messagebox
+webbrowser
+flask import Flask, render_template, request
